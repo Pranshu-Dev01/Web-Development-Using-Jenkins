@@ -65,8 +65,10 @@ pipeline {
 
 ## Pipeline Script
 
-![image](https://github.com/user-attachments/assets/0dbdcc22-d166-42ae-96fb-593adfc18350)
+![image](https://github.com/user-attachments/assets/b973100b-09a5-44e5-b9cf-3bbca2702d36)
+
 
 ### OUTPUT
-![image](https://github.com/user-attachments/assets/679e5acb-f95c-4476-af32-de13edd7cdbe)
+![image](https://github.com/user-attachments/assets/3a60c568-c030-4eed-97da-14ce5fa9bf44)
+
 
